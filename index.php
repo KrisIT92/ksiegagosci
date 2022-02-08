@@ -1,10 +1,12 @@
-﻿
-<HTML>
-<HEAD>
-<META http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
-<TITLE>Księga gości</TITLE>
-</HEAD>
-<BODY>
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ksiega gosci</title>
+ </head>
+ <body>
 <P ALIGN="CENTER"
    STYLE="background-color:red;color:white;font-weight:bold">
 Dodaj wpis:
@@ -18,8 +20,6 @@ Aktualne wpisy:
 </P>
 
 <?PHP include("guestbook.php") ?>
-
-</BODY>
-</HTML>
-
- 
+   
+ </body>
+ </html>
